@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpclient-4.1.1">
+    <CLASSES>
+      <root url="jar://D:/workspace/lis_agent/ui/WEB-INF/lib/httpclient-4.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
